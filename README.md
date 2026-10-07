@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Alvas!<br>- 👨🏻‍🎓 I'm Undergraduate Computer Engineering Student at Diponegoro University<br>- 💻 I like technology and learn programming<br>- 🧑🏻‍💻 Like to learn AI/machine learning<br>- 📍 Indonesia
+👋 Hi, I'm Alvaseena!<br>- 👨🏻‍🎓 I'm Undergraduate Computer Engineering Student at Diponegoro University<br>- 💻 I like technology and learn programming<br>- 🧑🏻‍💻 Like to learn AI/machine learning<br>- 📍 Indonesia
 
 
 ## 🌐 Socials:
